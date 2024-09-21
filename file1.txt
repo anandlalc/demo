@@ -1,5 +1,9 @@
 helloo
+<<<<<<< HEAD
 hello world
 test
 dev
 new
+=======
+
+>>>>>>> dev
